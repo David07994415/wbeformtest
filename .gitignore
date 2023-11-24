@@ -1,0 +1,8 @@
+.vs/
+packages/
+WebApplication3/bin/
+WebApplication3/Content/
+WebApplication3/obj/
+WebApplication3/Scripts/
+*.user
+*.config
